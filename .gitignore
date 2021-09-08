@@ -2,3 +2,5 @@ studio-db
 studio-server
 studio-client
 studio-s3
+.idea
+.s3
